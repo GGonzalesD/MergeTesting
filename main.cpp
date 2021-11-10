@@ -5,7 +5,7 @@ void function(std::string message){
 }
 
 int main(int args, const char **kargs){
-	std::cout << "Hello World!" << std::endl;
+	std::cout << "Hello Big World!" << std::endl;
 	std::cout << "New Change" << std::endl;
 	std::cout << "New Change Today" << std::endl;
 
